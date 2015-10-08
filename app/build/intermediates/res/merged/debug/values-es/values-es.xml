@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/C:/Users/HelloWorld/Desktop/adbwireless/app/src/main/res/values-es/strings.xml -->
+    <!-- From: file:/C:/Users/HelloWorld/Desktop/adbwireless1/app/src/main/res/values-es/strings.xml -->
     <eat-comment/>
     <string name="about">adbWireless habilita la conexión inalámbrica de ADB para conectarse al teléfono como si estuviera conectado por USB.\n\nDesarrollado por MrSiir (mrsiir@gmail.com)\n\nadbWirelessService:\nhttps://github.com/MrSiir/adbWireless/tree/master/server\n\nCódigo fuente:\nhttps://github.com/MrSiir/adbWireless\n\nHan contribuido: HandlerExploit y Skywriter</string>
     <string name="app_name">adbWireless</string>

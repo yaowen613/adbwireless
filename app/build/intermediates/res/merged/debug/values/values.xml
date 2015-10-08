@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/C:/Users/HelloWorld/Desktop/adbwireless/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/C:/Users/HelloWorld/Desktop/adbwireless1/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="about">adbWireless enable ADB wireless connection to connect to the phone as if connected by USB.\n\nDeveloped by MrSiir (mrsiir@gmail.com)\n\nadbWirelessService:\nhttps://github.com/MrSiir/adbWireless/tree/master/server\n\nSource code:\nhttps://github.com/slightlywobbly/adbWireless\n\nContributors: HandlerExploit and Skywriter</string>
     <string name="app_name">adbWireless</string>
